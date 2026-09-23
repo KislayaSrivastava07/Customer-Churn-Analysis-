@@ -100,8 +100,8 @@ graph LR
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/ahmudmuhamad/Customer-Churn-Prediction-.git
-    cd Customer-Churn-Prediction-
+    git clone https://github.com/KislayaSrivastava07/Customer-Churn-Analysis-.git
+    cd Customer-Churn-Analysis-
     ```
 
 2.  **Install Dependencies**:
